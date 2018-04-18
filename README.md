@@ -10,7 +10,6 @@ This is a sample repository.
 
 
 # Your name below this line
-Henri Lehtimäki
-*steam nick: The "Old" Dog
+
 
 
